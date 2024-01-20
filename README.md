@@ -1,3 +1,5 @@
+# THIS IS A FORK, IT IS NOT THE ORIGINAL PROJECT
+
 ## Update: [Answer from Haier](https://github.com/Andre0512/hon/issues/147#issuecomment-1902075829) 
 ## Announcement: I have to take the project down in the next few days
 > Dear User,
